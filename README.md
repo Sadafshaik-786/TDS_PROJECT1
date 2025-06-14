@@ -23,8 +23,8 @@ The data includes:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/23f3004008/TDS-Project1-Data.git
-   cd TDS-Project1-Data
+   git https://github.com/Sadafshaik-786/TDS_PROJECT1
+   cd TDS_VTA_P1
    ```
 
 2. **Install Dependencies**
